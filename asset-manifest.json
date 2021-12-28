@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/animated-react/static/css/main.073c9b0a.css",
+    "main.js": "/animated-react/static/js/main.3080bccc.js",
+    "static/js/787.0a2000e2.chunk.js": "/animated-react/static/js/787.0a2000e2.chunk.js",
+    "static/media/marketing.mp4": "/animated-react/static/media/marketing.6ec95c76bbed475d1b56.mp4",
+    "static/media/bchain.png": "/animated-react/static/media/bchain.900e0d57f3f84f5a3072.png",
+    "static/media/person.jpg": "/animated-react/static/media/person.886e4a77d5aceaed286d.jpg",
+    "static/media/map.png": "/animated-react/static/media/map.3a57e88c81ae5634a98a.png",
+    "static/media/person3.jpg": "/animated-react/static/media/person3.53878b1197ad269e2f6f.jpg",
+    "static/media/bitcoin.jpg": "/animated-react/static/media/bitcoin.46e8c1068ae51db6fd31.jpg",
+    "static/media/bitcoin3.jpg": "/animated-react/static/media/bitcoin3.50028aaf9346372c0811.jpg",
+    "static/media/avata.jpg": "/animated-react/static/media/avata.05b027287a82b9a05209.jpg",
+    "static/media/bitcoin2.jpg": "/animated-react/static/media/bitcoin2.b8ba908828b352b7f8e5.jpg",
+    "static/media/computer.jpg": "/animated-react/static/media/computer.6a406e2e7b5869c11491.jpg",
+    "index.html": "/animated-react/index.html",
+    "static/media/time.svg": "/animated-react/static/media/time.167033886016af6256bcd6cc41631053.svg",
+    "static/media/heart.svg": "/animated-react/static/media/heart.1b53b8d5cb43ffab9ace4b742cab0ea0.svg",
+    "static/media/circles.svg": "/animated-react/static/media/circles.be1ff3c5420557bd113822e3e53fbb42.svg",
+    "main.073c9b0a.css.map": "/animated-react/static/css/main.073c9b0a.css.map",
+    "main.3080bccc.js.map": "/animated-react/static/js/main.3080bccc.js.map",
+    "787.0a2000e2.chunk.js.map": "/animated-react/static/js/787.0a2000e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3080bccc.js"
+  ]
+}
